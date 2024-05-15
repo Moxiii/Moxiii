@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Moxiii
-- 👀 Les languages qui m'interresse le plus sont JS / PHP / PYTHON
-- 🌱 Je suis actuelement en BTS SIO OPTION SLAM 
+- 👀 Les languages qui m'interresse le plus sont JS / JAVA / PYTHON / C# / Dotnet
+- 🌱 Actuellement en étude
 - 📫 Vous pouvez en savoir plus sur maximelapouge.fr
 
 <!---
