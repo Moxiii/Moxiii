@@ -34,6 +34,6 @@
 ---
 🔥 My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Moxiii&theme=neon&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200&background=45%2C097C8A%2CEB41DF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Moxiii&theme=neon&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moxiii&layout=donut-vertical&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
