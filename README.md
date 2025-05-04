@@ -16,7 +16,7 @@
 - ⚡ On my free time i usually work on personnal Projects and trying to build home server but also ride bike , play video game and ofc sometime i go out drink 🍺 with my friends
 ---
 
-### 🧰 what i learn in this moment : 
+### 🧰 What i learn in this moment : 
 
 #### 🖼️ Design : 
 - <a href="https://www.figma.com/fr-fr/" target="_blank"> Figma </a>
