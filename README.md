@@ -56,9 +56,8 @@
 🔥 My Stats :
 ---
 <div>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Moxiii&theme=neon&border_radius=5&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Moxiii&theme=neon&border_radius=5&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="100%"/></a>
 </div>
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moxiii&layout=donut-vertical&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 ---
